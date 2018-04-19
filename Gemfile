@@ -8,6 +8,11 @@ gem 'rack-cors'
 gem 'rails', '~> 5.0.2'
 gem 'tzinfo-data'
 
+#spree
+gem 'spree', '~> 3.2.7'
+gem 'spree_auth_devise', '~> 3.3'
+gem 'spree_gateway', '~> 3.3'
+
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'rspec-rails', '~> 3.5'
