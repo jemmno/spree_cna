@@ -1,0 +1,1 @@
+spree deployado como cna
